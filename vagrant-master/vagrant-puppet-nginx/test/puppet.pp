@@ -1,3 +1,0 @@
-package { "nginx":
-    ensure => "latest"
-} 
